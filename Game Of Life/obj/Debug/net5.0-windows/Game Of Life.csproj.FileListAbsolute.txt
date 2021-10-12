@@ -16,3 +16,4 @@ E:\Visual\proyectos\Game Of Life\Game Of Life\Game Of Life\obj\Debug\net5.0-wind
 E:\Visual\proyectos\Game Of Life\Game Of Life\Game Of Life\obj\Debug\net5.0-windows\ref\Game Of Life.dll
 E:\Visual\proyectos\Game Of Life\Game Of Life\Game Of Life\obj\Debug\net5.0-windows\Game Of Life.pdb
 E:\Visual\proyectos\Game Of Life\Game Of Life\Game Of Life\obj\Debug\net5.0-windows\Game Of Life.genruntimeconfig.cache
+E:\Visual\proyectos\Game Of Life\Game Of Life\Game Of Life\obj\Debug\net5.0-windows\Game_Of_Life.Properties.Resources.resources
