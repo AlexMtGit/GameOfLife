@@ -1,4 +1,4 @@
-# GameOfLife
+# Game Of Life
 This application simulates the game of life created by John Horton Conway. The game is based on an orthogonal grid of square cells. Each cell can be alive or dead and its state depends on the 8 neighbouring cells around it. At each time step, the following interactions take place:
 
     1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
