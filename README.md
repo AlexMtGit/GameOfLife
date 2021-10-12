@@ -10,4 +10,10 @@ This application simulates the game of life created by John Horton Conway. The g
     4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 
+This GIF shows how the app works:
+
+
+![Game Of Life](https://user-images.githubusercontent.com/88795626/136992748-5696daac-ab44-4c61-91ba-a31e6f37f6c4.gif)
+
+
 This project has been developed using C#, Visual Studio and Windows Form (NET .5) for the GUI. 
